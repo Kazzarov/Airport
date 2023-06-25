@@ -1,0 +1,28 @@
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\bin\Debug\net6.0\DAL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\bin\Debug\net6.0\DAL.pdb
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.pdb
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\DAL\obj\Debug\net6.0\ref\DAL.dll

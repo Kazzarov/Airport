@@ -1,0 +1,30 @@
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\bin\Debug\net6.0\BL.deps.json
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\bin\Debug\net6.0\BL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\bin\Debug\net6.0\BL.pdb
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\bin\Debug\net6.0\DAL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\bin\Debug\net6.0\DAL.pdb
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\refint\BL.dll
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\BL.pdb
+D:\פרוייקט סיום\tes\Sela-Final-Project-main\Sela-Final-Project-main\airport-server\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\bin\Debug\net6.0\BL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\bin\Debug\net6.0\DAL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\Kobi\Downloads\downloadFinal\Final\airport-server\BL\obj\Debug\net6.0\ref\BL.dll
